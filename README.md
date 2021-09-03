@@ -4,4 +4,4 @@
 
 ## 📖 Table of Contents
 
-### 1. [Roman Number to an Integer](/home/louis/apps/code-review/DSA/romanToInteger/romanToInteger.md)
+### 1. [Roman Number to an Integer](/DSA/romanToInteger/romanToInteger.md)
