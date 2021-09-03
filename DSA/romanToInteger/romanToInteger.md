@@ -40,14 +40,14 @@
     - return integer
 
 ## JavaScript Implementation
-- [Roman to Integer](/code-review/DSA/romanToInteger/romanToInteger.js)
+- [Roman to Integer](/romanToInteger/romanToInteger.js)
 
 ## Big O Notation 
 - Time Complexity = O(n), where n is the size of the given Roman string.
 - Space Complexity = O(1)
 
 ## Testing
-- [Roman Number to Integer Test Function](/code-review/__tests__/romanToIngeter.test.js)
+- [Roman Number to Integer Test Function](/__tests__/romanToIngeter.test.js)
 
 ## Supporting Resources 
 - [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
