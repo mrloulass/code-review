@@ -40,7 +40,7 @@
     - return integer
 
 ## JavaScript Implementation
-- [Roman to Integer](/romanToInteger/romanToInteger.js)
+- [Roman to Integer](romanToInteger.js)
 
 ## Big O Notation 
 - Time Complexity = O(n), where n is the size of the given Roman string.
