@@ -36,7 +36,7 @@
 
 ## Testing
 
-- [Testing reverse array function](/__tests__reverseArray.test.js)
+- [Testing reverse array function](/__tests__/reverseArray.test.js)
 
 ## Supporting Resources
 
