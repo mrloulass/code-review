@@ -5,3 +5,5 @@
 ## 📖 Table of Contents
 
 ### 1. [Roman Number to an Integer](/DSA/romanToInteger/romanToInteger.md)
+
+### 2. [Reverse an Array]()
