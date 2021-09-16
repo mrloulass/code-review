@@ -6,4 +6,4 @@
 
 ### 1. [Roman Number to an Integer](/DSA/romanToInteger/romanToInteger.md)
 
-### 2. [Reverse an Array]()
+### 2. [Reverse an Array](/DSA/reverseArray/reverseArray.md)
